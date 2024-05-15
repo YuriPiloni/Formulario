@@ -1,0 +1,33 @@
+{
+  "name": "formulario",
+  "version": "1.0.0",
+  "description": "Aula 2 - Manipulação de dados de formulários em HTML",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriPiloni/Formulario.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "HTTP",
+    "GET",
+    "programação",
+    "cliente",
+    "servidor"
+  ],
+  "author": "Yuri Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriPiloni/Formulario/issues"
+  },
+  "homepage": "https://github.com/YuriPiloni/Formulario#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
